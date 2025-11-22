@@ -1,0 +1,12 @@
+{
+  "graph:open": [],
+  "editor:delete-paragraph": [],
+  "advanced-cursors:add-next-match-to-selections": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ]
+}
