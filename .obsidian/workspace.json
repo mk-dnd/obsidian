@@ -775,7 +775,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 642.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -790,7 +790,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51e5a90693c023e8",
+  "active": "1dbab3e87be5bcb7",
   "lastOpenFiles": [
     "Books.md",
     "MKUltra/test  file.md",
