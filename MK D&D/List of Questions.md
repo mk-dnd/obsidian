@@ -1,0 +1,8 @@
+- [ ] What does the kingdom look like?
+	- [ ] How big is it?
+	- [ ] What's their main crop, resource, export
+- [ ] Landlocked, lake, river, coastal, badlands, volcanic,
+- [ ] Did any past calamity happen that may change their culture or society
+	- [ ] e.g. a beast destroyed half the city so it prepares for a monster attack, or volcano exploded so they all have bunkers
+- [ ] 
+- 
