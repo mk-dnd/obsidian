@@ -744,6 +744,16 @@
             "id": "2e891a87843a1b03",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0e5cdc69dbd90412",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -751,7 +761,7 @@
             }
           }
         ],
-        "currentTab": 62
+        "currentTab": 64
       }
     ],
     "direction": "horizontal",
@@ -770,7 +780,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1dbab3e87be5bcb7",
+  "active": "0e5cdc69dbd90412",
   "lastOpenFiles": [
     "Books.md",
     "MKUltra/test  file.md",
