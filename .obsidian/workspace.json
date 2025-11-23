@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/plugins/editor-width-slider/main.js",
-                "bFile": ".obsidian/plugins/editor-width-slider/main.js",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: main.js"
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -724,10 +724,10 @@
             "id": "a0b7ef69896a7cdf",
             "type": "leaf",
             "state": {
-              "type": "Saved Queries View",
+              "type": "empty",
               "state": {},
-              "icon": "feather-mouse-pointer",
-              "title": "Saved Queries"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -738,6 +738,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "2e891a87843a1b03",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
             }
           }
         ],
@@ -760,11 +770,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1dbab3e87be5bcb7",
+  "active": "a834bd460a829b23",
   "lastOpenFiles": [
-    "Saupe.md",
-    "The Curious Tale of Wisteria Vale.md",
+    "MKContent/test  file.md",
     "Matthew & Kevin's Fantasy D&D Realm and Pantheon.md",
+    "Files/D&D Shop Catalog, V-1.8.pdf",
+    "MKImages/Untitled",
+    "MKContent",
+    "this should not save.md",
+    "The Curious Tale of Wisteria Vale.md",
+    "Saupe.md",
     "DD ideas 1.md",
     "DD ideas.md",
     "Golden key/310 to Feywild (or The Feywild Train Heist) (Heist at the Unicorn Express).md",
@@ -796,8 +811,6 @@
     "Chronalmental/To Do.md",
     "Santa’s Sleigh Heist/Lore.md",
     "Nothic/The Library.md",
-    "Santa’s Sleigh Heist/Brainstorming.md",
-    "Chronalmental/Act 3/Journey to....md",
     "GK - Rescue Under Dark",
     "Santa’s Sleigh Heist",
     "The Small and Mighty",
@@ -805,9 +818,6 @@
     "Chronalmental/Act 2",
     "Chronalmental/Act 1",
     "Chronalmental",
-    "Golden key",
-    "Untitled",
-    "Nothic",
     "Untitled.canvas"
   ]
 }
