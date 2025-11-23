@@ -11,14 +11,14 @@
             "id": "1dbab3e87be5bcb7",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "MKUltra/test  file.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "test  file"
             }
           }
         ]
@@ -772,11 +772,11 @@
   },
   "active": "a834bd460a829b23",
   "lastOpenFiles": [
-    "MKContent/test  file.md",
-    "Matthew & Kevin's Fantasy D&D Realm and Pantheon.md",
+    "MKUltra/test  file.md",
+    "MKUltra/Matthew & Kevin's Fantasy D&D Realm and Pantheon.md",
     "Files/D&D Shop Catalog, V-1.8.pdf",
     "MKImages/Untitled",
-    "MKContent",
+    "MKUltra",
     "this should not save.md",
     "The Curious Tale of Wisteria Vale.md",
     "Saupe.md",
