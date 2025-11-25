@@ -1,5 +1,7 @@
 - [ ] What does the kingdom look like?
 	- [ ] How big is it?
+		- [ ] 3-4 regions? Lake, mountain, forrest, pooptown
+		- [ ] Names for each region
 	- [ ] What's their main crop, resource, export
 - [ ] Landlocked, lake, river, coastal, badlands, volcanic,
 - [ ] Did any past calamity happen that may change their culture or society
