@@ -783,10 +783,10 @@
             "id": "0e5cdc69dbd90412",
             "type": "leaf",
             "state": {
-              "type": "Saved Queries View",
+              "type": "empty",
               "state": {},
-              "icon": "feather-mouse-pointer",
-              "title": "Saved Queries"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -798,9 +798,19 @@
               "icon": "feather-mouse-pointer",
               "title": "Saved Queries"
             }
+          },
+          {
+            "id": "4c2e4fb4e5e0ed4f",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
           }
         ],
-        "currentTab": 62
+        "currentTab": 66
       }
     ],
     "direction": "horizontal",
@@ -819,7 +829,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ac42b3f91073dd3",
+  "active": "4c2e4fb4e5e0ed4f",
   "lastOpenFiles": [
     "MK D&D/Lore.md",
     "MK D&D/List of Questions.md",
