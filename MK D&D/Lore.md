@@ -1,7 +1,7 @@
  # Pantheon
 ### K Idea's 1
  - There are 10 gods 
-	 - (Idea) The modern gods were ascended mortals from LONG ago
+	 - (Idea) The modern gods were ascended mortals from LONG ago. For example, the time from the Bronze age to the time of knights. 
  - Three Ancient (dead?) *(Brainstormed to narrow down)*
 	 - God of Earth/Sea/Heavens style shit
 	 - Or Mad gods (Cosmos/Time,/Chaos, of that nature)
