@@ -19,7 +19,7 @@
 | God of       | Rats                                                                                                                                                            |
 | Worshipers   | Commoners who live in the slums<br>Wanderers, travelers (rats are everywhere, after all)<br>The downtrodden and **imprisoned**<br>Those who are more "agnostic" |
 | Attitude     |                                                                                                                                                                 |
-| Lore (Early) |                                                                                                                                                                 |
+| Lore (Early) | silly:                                                                                                                                                          |
 
 
 ## History
