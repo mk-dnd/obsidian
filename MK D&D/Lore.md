@@ -33,8 +33,8 @@
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Alignment                   | Evil                                                                                                                                                                                                             |
 | God of                      | Shitting oneself, pissing oneself, pissing and shitting oneself at the same time, farting that turns into a little bit of a poo, farting in front of person you have a crush on, shitting oneself to ***DEATH*** |
-| Worshipers                  |                                                                                                                                                                                                                  |
-| Attitude                    |                                                                                                                                                                                                                  |
+| Worshipers                  | Worshippers may make sacrifices to not have the runs before an important meeting, or if one wants to curse another with non-stop, incurable burp-farting (it's awful)                                            |
+| Attitude                    | Nasty Boy!                                                                                                                                                                                                       |
 | Lore (Early)                |                                                                                                                                                                                                                  |
 
 | ==--God of --== |     |
