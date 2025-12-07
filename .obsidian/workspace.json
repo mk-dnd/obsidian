@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f6864fabbb641b21",
+        "id": "f2e01e2233c51eb4",
         "type": "tabs",
         "children": [
           {
-            "id": "ccedb8a65a244582",
+            "id": "efb3f697516c40b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -779,8 +783,8 @@
   },
   "active": "a834bd460a829b23",
   "lastOpenFiles": [
-    "Books.md",
     "conflict-files-obsidian-git.md",
+    "Books.md",
     "MK D&D/List of Questions.md",
     "MK D&D/Lore.md",
     "DD ideas.md",
