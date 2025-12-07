@@ -1,8 +1,11 @@
 - [ ] What does the kingdom look like?
 	- [ ] How big is it?
-	- [ ] What's their main crop, resource, export
-- [ ] Landlocked, lake, river, coastal, badlands, volcanic,
+		- [ ] 3-4 regions? Lake, mountain, forrest, pooptown
+		- [ ] Names for each region, naming conventions (After grape wines, or genus of beetle etc)
+	- [ ] What's their main crop, resource, export, anything valuable?
+- [ ] Landlocked, lake, river, coastal, badlands, volcanic?
 - [ ] Did any past calamity happen that may change their culture or society
 	- [ ] e.g. a beast destroyed half the city so it prepares for a monster attack, or volcano exploded so they all have bunkers
+	- The Day of Three Calamaties: The Evil Lych Daarkvard conducted assassinations in all 
 - [ ] 
 - 
