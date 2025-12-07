@@ -51,6 +51,6 @@
 - The Night of the Three Calamities.
 	- The Evil Lych Daarkvard unleashed the Phantom Assassins to devour the royalty accross the land.
 	- The Mad Mage Kibblecob fired a mountain destroying beam to level the Great Mountain Trevoltius. 
-	- A massive meteor crashed into the Dwarv city of Gor
-	- Well as it turns out. Lord Daarkvard was atop the mountain, and Kibblecob was in the city. So Daarkvard never had a chance to take over after destroying the all those with royal blood. Kibblecob only destroyed half the mountain, along with everything else in the path of this country sized beam. And the meteor was made of MINERAL which became a great source of wealth for the city.
+	- A massive meteor crashed into the Dwarven city of Gor
+	- Well as it turns out. Lord Daarkvard was atop the mountain, and Kibblecob was in the city. So Daarkvard never had a chance to take over after destroying the all those with royal blood. Kibblecob only destroyed half the mountain, along with everything else in the path of this country sized beam. And the meteor was made of Adamantine which became a great source of wealth for the city.
 # Land
