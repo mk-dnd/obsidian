@@ -829,6 +829,16 @@
             "id": "fa6bcff266a183b4",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4ddacd20d9c60d72",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -836,7 +846,7 @@
             }
           }
         ],
-        "currentTab": 70
+        "currentTab": 71
       }
     ],
     "direction": "horizontal",
@@ -856,7 +866,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e68ebca5b822923f",
+  "active": "4ddacd20d9c60d72",
   "lastOpenFiles": [
     "MK D&D/Lore.md",
     "My Characters.md",
