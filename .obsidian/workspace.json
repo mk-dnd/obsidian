@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Characters.md",
+                "file": "MK D&D/Lore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Characters"
+              "title": "Lore"
             }
           }
         ],
@@ -839,6 +839,16 @@
             "id": "4ddacd20d9c60d72",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a516d4e530e0f738",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -846,7 +856,7 @@
             }
           }
         ],
-        "currentTab": 71
+        "currentTab": 72
       }
     ],
     "direction": "horizontal",
@@ -866,13 +876,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ddacd20d9c60d72",
+  "active": "a516d4e530e0f738",
   "lastOpenFiles": [
-    "MK D&D/Lore.md",
+    "MK D&D/List of Questions.md",
     "My Characters.md",
+    "MK D&D/Lore.md",
     "Piscarilius Mormyrus.md",
     "DD ideas.md",
-    "MK D&D/List of Questions.md",
     "The Curious Tale of Wisteria Vale.md",
     "conflict-files-obsidian-git.md",
     "Books.md",
