@@ -849,6 +849,16 @@
             "id": "a516d4e530e0f738",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5b2c2bc027b5cfab",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -856,7 +866,7 @@
             }
           }
         ],
-        "currentTab": 72
+        "currentTab": 73
       }
     ],
     "direction": "horizontal",
@@ -876,11 +886,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a516d4e530e0f738",
+  "active": "5b2c2bc027b5cfab",
   "lastOpenFiles": [
+    "MK D&D/Lore.md",
     "MK D&D/List of Questions.md",
     "My Characters.md",
-    "MK D&D/Lore.md",
     "Piscarilius Mormyrus.md",
     "DD ideas.md",
     "The Curious Tale of Wisteria Vale.md",
