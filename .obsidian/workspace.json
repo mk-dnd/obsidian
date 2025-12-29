@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MK D&D/Lore.md",
+                "file": "My Characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lore"
+              "title": "My Characters"
             }
           }
         ],
@@ -896,7 +896,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46661a6a61e93aa8",
+  "active": "e68ebca5b822923f",
   "lastOpenFiles": [
     "MK D&D/Lore.md",
     "MK D&D/List of Questions.md",
