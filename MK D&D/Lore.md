@@ -58,7 +58,7 @@
 	- Gnome Dome
 	- Orkish Pirate Islands
 	- Western Forest
-	- The Great City of Spri
+	- The Great City of Begia
 	- Wastlendas to the north
 	- Northern Forest
 	- Beam Line
