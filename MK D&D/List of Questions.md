@@ -1,6 +1,6 @@
 - [ ] What does the kingdom look like?
 	- [ ] How big is it?
-		- [ ] 3-4 regions? Lake, mountain, forrest, pooptown
+		- [ ] 3-4 regions? Lake, mountain, forest, pooptown
 		- [ ] Names for each region, naming conventions (After grape wines, or genus of beetle etc)
 	- [ ] What's their main crop, resource, export, anything valuable?
 - [ ] Landlocked, lake, river, coastal, badlands, volcanic?
