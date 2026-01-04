@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Characters.md",
+                "file": "Piscarilius Mormyrus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Characters"
+              "title": "Piscarilius Mormyrus"
             }
           }
         ],
@@ -879,6 +879,16 @@
             "id": "1a9bac7b023a593d",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "340dfbf1c4204d1e",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -886,7 +896,7 @@
             }
           }
         ],
-        "currentTab": 75
+        "currentTab": 76
       }
     ],
     "direction": "horizontal",
@@ -906,11 +916,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a9bac7b023a593d",
+  "active": "340dfbf1c4204d1e",
   "lastOpenFiles": [
+    "New year resolutions.md",
+    "My Characters.md",
     "MK D&D/Lore.md",
     "MK D&D/List of Questions.md",
-    "My Characters.md",
     "Piscarilius Mormyrus.md",
     "DD ideas.md",
     "The Curious Tale of Wisteria Vale.md",
@@ -946,7 +957,6 @@
     "The Small and Mighty/Species.md",
     "The Small and Mighty/Items.md",
     "Chronalmental/Act 2/It's About Time (2) Into the Forest.md",
-    "Chronalmental/The Jist.md",
     "GK - Rescue Under Dark",
     "Santa’s Sleigh Heist",
     "The Small and Mighty",
