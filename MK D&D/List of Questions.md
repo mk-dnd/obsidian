@@ -7,4 +7,3 @@
 - [ ] Did any past calamity happen that may change their culture or society
 	- [ ] e.g. a beast destroyed half the city so it prepares for a monster attack, or volcano exploded so they all have bunkers
 - [ ] 
-- 
