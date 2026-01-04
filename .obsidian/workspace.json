@@ -899,6 +899,16 @@
             "id": "a1a56dfc67785517",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "022112445ae8831c",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -906,7 +916,7 @@
             }
           }
         ],
-        "currentTab": 77
+        "currentTab": 78
       }
     ],
     "direction": "horizontal",
@@ -926,10 +936,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1a56dfc67785517",
+  "active": "022112445ae8831c",
   "lastOpenFiles": [
-    "MK D&D/List of Questions.md",
     "MK D&D/Lore.md",
+    "MK D&D/List of Questions.md",
     "Piscarilius Mormyrus.md",
     "New year resolutions.md",
     "My Characters.md",
