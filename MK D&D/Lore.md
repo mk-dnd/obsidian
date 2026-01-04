@@ -55,3 +55,11 @@
 	- Well as it turns out. Lord Daarkvard was atop the mountain and died in Kibblecob's blast. Kibblecob was in the city and was crushed by the meteor. So Daarkvard never had a chance to take over after destroying the all those with royal blood. Kibblecob only destroyed half the mountain, along with everything else in the path of this country sized beam. And the meteor was made of Adamantine which became a great source of wealth for those still alive in the city.
 # Land
 - The Continent of Van Gide (Dead Gods)
+	- Gnome Dome
+	- Orkish Pirate Islands
+	- Western Forest
+	- The Great City of Spri
+	- Wastlendas to the north
+	- Northern Forest
+	- Beam Line
+	- Beam Line Trading Towns
