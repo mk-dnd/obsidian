@@ -909,6 +909,16 @@
             "id": "022112445ae8831c",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5c99299cc253d1f8",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -916,7 +926,7 @@
             }
           }
         ],
-        "currentTab": 78
+        "currentTab": 79
       }
     ],
     "direction": "horizontal",
@@ -936,7 +946,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "022112445ae8831c",
+  "active": "5c99299cc253d1f8",
   "lastOpenFiles": [
     "MK D&D/Lore.md",
     "MK D&D/List of Questions.md",
